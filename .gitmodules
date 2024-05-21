@@ -1,3 +1,6 @@
 [submodule "fs-2024-csci-599-exercise-1"]
 	path = fs-2024-csci-599-exercise-1
 	url = git@github.com:odedstein/fs-2024-csci-599-exercise-1.git
+[submodule "fs-2024-csci-599-exercise-2"]
+	path = fs-2024-csci-599-exercise-2
+	url = https://github.com/odedstein/fs-2024-csci-599-exercise-2.git
