@@ -7,3 +7,6 @@
 [submodule "fs-2024-csci-599-exercise-3"]
 	path = fs-2024-csci-599-exercise-3
 	url = git@github.com:odedstein/fs-2024-csci-599-exercise-3.git
+[submodule "computer-graphics-bounding-volume-hierarchy"]
+	path = computer-graphics-bounding-volume-hierarchy
+	url = git@github.com:alecjacobson/computer-graphics-bounding-volume-hierarchy.git
