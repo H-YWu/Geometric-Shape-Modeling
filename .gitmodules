@@ -10,3 +10,6 @@
 [submodule "computer-graphics-bounding-volume-hierarchy"]
 	path = computer-graphics-bounding-volume-hierarchy
 	url = git@github.com:alecjacobson/computer-graphics-bounding-volume-hierarchy.git
+[submodule "computer-graphics-ray-casting"]
+	path = computer-graphics-ray-casting
+	url = git@github.com:alecjacobson/computer-graphics-ray-casting.git
